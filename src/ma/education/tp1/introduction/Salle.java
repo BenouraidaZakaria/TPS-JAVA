@@ -2,10 +2,11 @@ package ma.education.tp1.introduction;
 
 public class Salle {
     /*   attributs  de classe */
-    public long id;
-    public String nom;
+    protected long id;
+    protected String nom;
 
     /*  constructeur de classe  */
+    Salle(){}
     public Salle(String nom){
         this.nom=nom;
     }
@@ -13,5 +14,4 @@ public class Salle {
         this.id=id;
         this.nom=nom;
     }
-    Salle(){}
 }
