@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Creation interface">
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Carnivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/CompteBancaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Herbivore.java" afterDir="false" />
+    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Implementation interface">
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/CodeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp5/collections/TestSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,7 +41,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Downloads/github-copilot-intellij/lib/github-copilot-intellij-1.1.38.2229.jar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673301781439</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Implementation interface">
+      <created>1673302035309</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673302035309</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +133,7 @@
     <MESSAGE value="Singleton" />
     <MESSAGE value="Abstract" />
     <MESSAGE value="Creation interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation interface" />
+    <MESSAGE value="Implementation interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation interface" />
   </component>
 </project>
