@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Singleton">
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/FormeGeoTypeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/FormeGeometrique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Triangle.java" afterDir="false" />
+    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Abstract">
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/interfacekeyword/Compte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673300370091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Abstract">
+      <created>1673301182046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673301182046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
     <MESSAGE value="Visibilite" />
     <MESSAGE value="Static" />
     <MESSAGE value="Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton" />
+    <MESSAGE value="Abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract" />
   </component>
 </project>
