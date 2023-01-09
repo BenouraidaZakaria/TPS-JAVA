@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Static">
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/sigleton/Terre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp4/sigleton/TestSigleton.java" afterDir="false" />
+    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Singleton">
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/FormeGeoTypeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/FormeGeometrique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp/abstractkeyword/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673299945453</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Singleton">
+      <created>1673300370091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673300370091</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +106,7 @@
     <MESSAGE value="Heritage" />
     <MESSAGE value="Visibilite" />
     <MESSAGE value="Static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static" />
+    <MESSAGE value="Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton" />
   </component>
 </project>
