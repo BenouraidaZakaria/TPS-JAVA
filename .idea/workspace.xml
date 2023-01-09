@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Heritage">
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/heritage/AccesHorsPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/AccesSamePackage.java" afterDir="false" />
+    <list default="true" id="02c726b8-d6b2-46c8-a9c7-a0f7ff556050" name="Changes" comment="Visibilite">
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/statickeyword/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ma/education/tp2/statickeyword/TestStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/heritage/AccesHorsPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/heritage/AccesHorsPackage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Salle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ma/education/tp1/introduction/Salle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672866122875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Visibilite">
+      <created>1673079262284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673079262284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +90,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rappel Seance 1" />
     <MESSAGE value="Heritage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Heritage" />
+    <MESSAGE value="Visibilite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Visibilite" />
   </component>
 </project>

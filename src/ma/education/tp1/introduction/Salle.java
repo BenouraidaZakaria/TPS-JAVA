@@ -6,7 +6,7 @@ public class Salle {
     protected String nom;
 
     /*  constructeur de classe  */
-    Salle(){}
+    public Salle(){}
     public Salle(String nom){
         this.nom=nom;
     }
